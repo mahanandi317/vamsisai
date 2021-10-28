@@ -1,5 +1,7 @@
 provider "aws" {
   region = "us-east-2"
+  access_key = "AKIAY6K553HHG2QPZK7O"
+  secret_key = "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"
 }
  
 resource "aws_instance" automatedproject-vm" {
